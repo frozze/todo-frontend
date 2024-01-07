@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,
-  getEntriesUrl: 'http://localhost:8000/api/entries/',
-  updateEntriesUrl: 'http://localhost:8000/api/save_entries/',
+  getEntriesUrl: 'https://egor-grocery-web-server-cbc9d33e28be.herokuapp.com/api/entries/',
+  updateEntriesUrl: 'https://egor-grocery-web-server-cbc9d33e28be.herokuapp.com/api/save_entries/',
 };
 
 /*
